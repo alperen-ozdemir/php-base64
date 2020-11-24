@@ -1,4 +1,4 @@
-# PHP Base64 <img align="right" src="http://r73.cooltext.com/rendered/cooltext-357164423794928.gif" />
+# PHP Base64 <img align="right" src="https://i.ibb.co/4Y5w7p6/cooltext369494488482539.gif" />
 
 > PHP Base64 - Pure Base64 Algorithm Implementation
 
