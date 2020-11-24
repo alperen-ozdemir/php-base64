@@ -38,12 +38,6 @@ phpbase64 --decode <some text>
 
 ```
 
-### Command Line Example
-
-<p align="center">
-<img src="https://camo.githubusercontent.com/29b7009076fa2d81b6dc293793dfdfc1039c9196/687474703a2f2f7777772e696d67696d2e636f6d2f383830696e63696e393933343131332e676966" />
-</p>
-
 ## License
  
 * The MIT License (MIT)
