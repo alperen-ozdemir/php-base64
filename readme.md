@@ -22,7 +22,7 @@ $base64 = new Base64();
 ```php
 $base64->base64Encode("This is going to be encoded in Base64";
 $base64->base64EncodeUrl("https://github.com/alperen-ozdemir/php-base64";
-$base64->base64EncodeUrl("SSBsb3ZlIGN1cmlvc2l0eS4=");
+$base64->base64DecodeUrl("SSBsb3ZlIGN1cmlvc2l0eS4=");
 ```
 
 ## Command Line Usage
