@@ -16,7 +16,7 @@ Click the `download` link above or `git clone git://github.com/alperen-ozdemir/p
 Simply require and initialize the `Base64` class like so:
 ```php
 require_once 'Base64.php';
-$base = new Base64();
+$base64 = new Base64();
 ```
 ### Examples
 ```php
