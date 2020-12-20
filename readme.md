@@ -34,7 +34,7 @@ $ phpbase64 --help
 Usage:                                                                           
 phpbase64 --encode <some text>                                                  
 phpbase64 --encode-url <some text>                                               
-phpbase64 --decode <some text> 
+phpbase64 --decode <some base64> 
 
 ```
 
